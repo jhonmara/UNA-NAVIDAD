@@ -62,6 +62,13 @@ footer{
     margin-right: 8rem;
     text-align: center;
 }
+.footer_in{
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+    text-align: ;
+
+}
 @media (min-width: 600px){
 
 }
