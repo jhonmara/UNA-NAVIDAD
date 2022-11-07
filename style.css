@@ -6,8 +6,47 @@
 html{
     font-size: 62.5%;
 }
-.header{
-    
-    width: 1.5rem;
-    height: 2rem;
+body{
+    background-color: white;
+}
+
+header{
+    background-color: red;
+    margin-left: 7rem;
+    margin-right: 8rem;
+    padding-left: 3rem; 
+    padding-right: 4rem;   
+}
+.conteiner{
+    margin-left: 7rem;
+    margin-right: 8rem;
+}
+.logo{
+    width: 60rem;
+    height: 50rem;
+    margin-left: 35rem;
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+.man_inv{
+    background-color: white;
+    color: green;
+    font-size: 5rem;
+}
+.man_inv_pa{
+    background-color: blueviolet;
+    color: black;
+    font-size: 2.5rem;
+    text-align:justify;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    margin-top: 2rem;
+
+}
+.man_img{
+    width: 60rem;
+    height: 50rem;
+    margin-left: 35rem;
+    padding-top: 5rem;
+    padding-bottom: 8rem;
 }
