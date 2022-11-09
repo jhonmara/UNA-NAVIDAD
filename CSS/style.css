@@ -64,9 +64,13 @@ footer{
 }
 .footer_in{
     font-size: 2rem;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
     margin: 0;
     padding: 0;
-    text-align: ;
+    text-align: center;
+    margin-left: 3rem;
 
 }
 @media (min-width: 600px){
